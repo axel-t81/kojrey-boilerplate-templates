@@ -1,2 +1,7 @@
-# raw-html-css-js-website-boilerplate
-A boilerplate that can be re-used to build my own raw HTML, CSS, JS websites
+# kojrey-BOILERPLATE-templates
+
+### Description
+A set of boilerplate templates that can be used for a variety of websites, programs and apps.
+
+### Boilerplate List
+1. HTML, CSS, and JavaScript website template.
