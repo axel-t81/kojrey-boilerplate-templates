@@ -5,3 +5,4 @@ A set of boilerplate templates that can be used for a variety of websites, progr
 
 ### Boilerplate List
 1. HTML, CSS, and JavaScript website template.
+2. React app template (See README inside folder).
